@@ -1,2 +1,2 @@
 # project7_art
-DL for Art project7
+DL for computer vision project7_art
